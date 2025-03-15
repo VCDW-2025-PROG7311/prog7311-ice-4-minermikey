@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Memento Pattern Example";
+}
+
+<h2>Memento Pattern - Edit Text</h2>
+
+<form method="post" asp-action="Save">
+    <textarea name="newText">@Model</textarea><br>
+    <button type="submit">Save</button>
+</form>
+
+<form method="post" asp-action="Undo">
+    <button type="submit">Undo</button>
+</form>
+
+<h3>Saved Information</h3>
+<ul>
+    @foreach (var text in ViewBag.SavedTexts as List<string>)
+    {
+        <li>@text</li>
+    }
+</ul>

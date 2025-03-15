@@ -1,0 +1,30 @@
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/appsettings.Development.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/appsettings.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo.staticwebassets.runtime.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo.deps.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo.runtimeconfig.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo.dll
+/Users/mikey/VS Code/Memento Redo/Memento Redo/bin/Debug/net8.0/Memento Redo.pdb
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.AssemblyInfoInputs.cache
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.AssemblyInfo.cs
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.csproj.CoreCompileInputs.cache
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.MvcApplicationPartsAssemblyInfo.cache
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.RazorAssemblyInfo.cache
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.RazorAssemblyInfo.cs
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets/msbuild.Memento Redo.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets/msbuild.build.Memento Redo.props
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Memento Redo.props
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Memento Redo.props
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/scopedcss/bundle/Memento Redo.styles.css
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/scopedcss/projectbundle/Memento Redo.bundle.scp.css
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.dll
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/refint/Memento Redo.dll
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.pdb
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/Memento Redo.genruntimeconfig.cache
+/Users/mikey/VS Code/Memento Redo/Memento Redo/obj/Debug/net8.0/ref/Memento Redo.dll
